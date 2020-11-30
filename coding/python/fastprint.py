@@ -1,4 +1,4 @@
-# This is a helpful snippit that can slow down your text in python #
+# This is a helpful snippit that can slow down your text in python. #
 
 import time
 
