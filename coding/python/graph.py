@@ -1,4 +1,5 @@
 #This is a weird graph calculater, I don't know why you need it because if you can code you can probably do this in your head.#
+import math
 
 def graph():
     num1 = int(input("What is the first number?"))
