@@ -1,4 +1,5 @@
 #This is a simple addition calculater, I don't know why you would need it but here it is.
+import math
 
 def addition():
     num1 = int(input("What is the first number?"))
