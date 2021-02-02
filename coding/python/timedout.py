@@ -1,4 +1,5 @@
 # This will make it so somthing is timed out if it takes too long.
+import time
 
 def timedout():
     i = 30
