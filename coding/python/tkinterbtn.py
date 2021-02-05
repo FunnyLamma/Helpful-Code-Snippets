@@ -2,5 +2,5 @@
 import tkinter as tk
 
 
-self.quit = tk.Button(self, text="This is a button", fg="red",
+self.btn_example = tk.Button(self, text="This is a button", fg="red",
                         command=self.master.destroy)
